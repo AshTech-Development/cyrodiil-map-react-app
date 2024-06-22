@@ -1,3 +1,7 @@
+"devDependencies": {
+  "react-scripts": "^5.0.1"
+}
+
 {
   "name": "cyrodiil-map-react-app",
   "version": "0.1.0",
